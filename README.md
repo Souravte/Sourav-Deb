@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/WbiwUD6jRixRb6AP7)](https://souravte.io)
+[![MasterHead](https://images.app.goo.gl/pi99SQhPtdEP72f49)](https://souravte.io)
 <h1 align="center">Hi 👋, I'm Sourav Deb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://dribbble.com/shots/4860159/attachments/4860159-Digital-marketing?mode=media">
