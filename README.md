@@ -1,7 +1,7 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://souravte.io)
 <h1 align="center">Hi 👋, I'm Sourav Deb</h1>
 <h3 align="center">A passionate DevOps Engineer </h3>
-<img  align="right" alt="coding" height="500" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
+<img  align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravte&label=Profile%20views&color=0e75b6&style=flat" alt="souravte" /> </p>
 
