@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **techprofessional555@gmail.com**
+- 📫 How to reach me **sdeb3956@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
