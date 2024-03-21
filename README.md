@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Futuristic-Computer-Concept.gif)](https://souravte.io)
+[![MasterHead](https://i.pinimg.com/originals/16/71/cf/1671cfd757b99fd756e30f7d7d28bf67.gif)](https://souravte.io)
 <h1 align="center">Hi 👋, I'm Sourav Deb</h1>
 <h3 align="center">A passionate DevOps Engineer </h3>
 <img  align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
