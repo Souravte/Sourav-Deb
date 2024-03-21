@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://souravte.io)
+[![MasterHead](https://scitechdaily.com/images/Futuristic-Computer-Concept.gif)](https://souravte.io)
 <h1 align="center">Hi 👋, I'm Sourav Deb</h1>
 <h3 align="center">A passionate DevOps Engineer </h3>
 <img  align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
