@@ -1,6 +1,6 @@
 [![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)](https://souravte.io)
 <h1 align="center">Hi 👋, I'm Sourav Deb</h1>
-<h3 align="center">A passionate DevOps Engineer </h3>
+<h3 align="center">A passionate AWS Engineer </h3>
 <img  align="right" alt="coding" width="400" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravte&label=Profile%20views&color=0e75b6&style=flat" alt="souravte" /> </p>
